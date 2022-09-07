@@ -1,14 +1,33 @@
 export const config = {
+  /**
+   * 公众号配置
+   */
 
+  // 公众号APP_ID 
+  // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
+  // 如果你非要填这里也行。脚本也能运行
+   APP_ID: "wxcc4e4b39e15f710d",
 
-  APP_ID: "wxcc4e4b39e15f710d",
-
-  公众号APP_SECRET 
+  // 公众号APP_SECRET 
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
    APP_SECRET: "9e9a686d43e439502874b59f1518d3fb",
 
-
+  /**
+   * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
+   * [
+   *  {
+   *    // 想要发送的人的名字
+   *    name: "老婆0",
+   *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+   *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
+   *    // 你想对他发送的模板消息的模板ID
+   *    useTemplateId: "zjVglIuCXo4CsraXWEio1iP7sZJ7IQEES9lDsgc4yOU",
+   *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
+   *    openUrl: "https://wangxinleo.cn"
+   *   }, 
+   * ]
+   */
   USERS: [
     {
       // 想要发送的人的名字
@@ -22,7 +41,8 @@ export const config = {
       // 所在城市
       city: "南宁",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
+      openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0
+"
     }, 
     {
       name: "老婆1", 
@@ -61,9 +81,9 @@ export const config = {
   CALLBACK_USERS: [
     {
       // 一般都填自己
-      name: "Me",
+      name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
+      id: "ohx12OO6VskYv03Kuf43ywIZVRM4puXhk",
     }, 
   ],
     
@@ -74,9 +94,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "广西",
+  PROVINCE: "广东",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "南宁",
+  CITY: "惠州",
 
   /** 重要节日相关 */
 
