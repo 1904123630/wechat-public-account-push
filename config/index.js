@@ -43,14 +43,14 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
     }, 
-    {
-      name: "代燕", 
+   // {
+  //    name: "代燕", 
     //  id: "ouDkI6sxSBTRLZDViPwnqeGJmRI8",
-      useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
-      province: "广西",
-      city: "柳州",
-      openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
-    }, 
+  //    useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
+//province: "广西",
+  //    city: "柳州",
+  //    openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
+ //   }, 
      {
       name: "韦admin", 
      id: "ouDkI6mWPjGSrV588JVZLjp9Q1NM",
@@ -60,14 +60,14 @@ export const config = {
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
     }, 
     
-    {
-      name: "梁圣月", 
-   //   id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
-      useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
-      province: "广西",
-      city: "贵港",
-      openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
-    }, 
+   // {
+   //  name: "梁圣月", 
+    //  id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
+  //    useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
+   //   province: "广西",
+  //    city: "贵港",
+   //   openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
+  //  }, 
     
   ],
 
