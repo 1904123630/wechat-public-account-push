@@ -52,13 +52,14 @@ export const config = {
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
     }, 
      {
-      name: "石", 
-     id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
-      useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
+      name: "韦admin", 
+     id: "ouDkI6mWPjGSrV588JVZLjp9Q1NM",
+      useTemplateId: "CcxrrsJJZtfgcx58hnWYNxoCiMkhRuSXf4GIbzhh_FM",
       province: "广西",
-      city: "贵港",
+      city: "北海",
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
     }, 
+    
     {
       name: "梁圣月", 
    //   id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
