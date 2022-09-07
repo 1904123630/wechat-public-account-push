@@ -68,14 +68,7 @@ export const config = {
       city: "贵港",
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
     }, 
-     {
-      name: "你", 
-      id: "ouDkI6rZT8v1hGJ6eWSE8sPxeU8A",
-      useTemplateId: "CcxrrsJJZtfgcx58hnWYNxoCiMkhRuSXf4GIbzhh_FM",
-      province: "广西",
-      city: "南宁",
-      openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
-    }, 
+    
   ],
 
   /**
