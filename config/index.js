@@ -8,10 +8,10 @@ export const config = {
   // 如果你非要填这里也行。脚本也能运行
   // APP_ID: "wxcc4e4b39e15f710d",
 
-  // 公众号APP_SECRET 
+  公众号APP_SECRET 
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  // APP_SECRET: "9e9a686d43e439502874b59f1518d3fb",
+   APP_SECRET: "9e9a686d43e439502874b59f1518d3fb",
 
 
   USERS: [
@@ -21,7 +21,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
+      useTemplateId: "CcxrrsJJZtfgcx58hnWYNxoCiMkhRuSXf4GIbzhh_FM",
       // 所在省份
       province: "广西",
       // 所在城市
