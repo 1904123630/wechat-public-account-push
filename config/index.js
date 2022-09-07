@@ -70,7 +70,7 @@ export const config = {
     }, 
      {
       name: "你", 
-   //   id: "ouDkI6rZT8v1hGJ6eWSE8sPxeU8A",
+     id: "ouDkI6rZT8v1hGJ6eWSE8sPxeU8A",
       useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
       province: "广西",
       city: "南宁",
