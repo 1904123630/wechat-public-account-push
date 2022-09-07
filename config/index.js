@@ -53,7 +53,7 @@ export const config = {
     }, 
      {
       name: "韦admin", 
-     id: "ouDkI6mWPjGSrV588JVZLjp9Q1NM",
+   //  id: "ouDkI6mWPjGSrV588JVZLjp9Q1NM",
       useTemplateId: "CcxrrsJJZtfgcx58hnWYNxoCiMkhRuSXf4GIbzhh_FM",
       province: "广西",
       city: "北海",
