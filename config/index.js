@@ -45,8 +45,8 @@ export const config = {
     }, 
     {
       name: "代燕", 
-     // id: "ouDkI6sxSBTRLZDViPwnqeGJmRI8",
-      useTemplateId: "B-uwIIRNt8AEs4KLZ1W3tlDpo1yJZUzSmAO17FDh7Zw",
+      id: "ouDkI6sxSBTRLZDViPwnqeGJmRI8",
+      useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
       province: "广西",
       city: "柳州",
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
@@ -54,15 +54,15 @@ export const config = {
      {
       name: "石", 
      id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
-      useTemplateId: "CcxrrsJJZtfgcx58hnWYNxoCiMkhRuSXf4GIbzhh_FM",
+      useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
       province: "广西",
       city: "贵港",
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
     }, 
     {
       name: "梁圣月", 
-    //  id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
-      useTemplateId: "B-uwIIRNt8AEs4KLZ1W3tlDpo1yJZUzSmAO17FDh7Zw",
+      id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
+      useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
       province: "广西",
       city: "贵港",
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
@@ -106,10 +106,13 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": " ", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "  纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "认识纪念日", "year": "2021", "date": "09-01"},
+  //  {"type": "生日", "name": " ", "year": "1996", "date": "09-02"},
+    {"type": "节日", "name": "中秋节", "year": "2022", "date": "09-10"},
+    {"type": "节日", "name": "国庆节", "year": "2022", "date": "10-01},
+      {"type": "节日", "name": "2023年", "year": "2023", "date": "01-01},
+  
+ //   {"type": "生日", "name": "", "year": "1996", "date": "09-31"},
+  //  {"type": "节日", "name": "认识纪念日", "year": "2022", "date": "10-01"},
   ],
 
   /**
