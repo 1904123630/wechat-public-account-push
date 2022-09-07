@@ -45,7 +45,7 @@ export const config = {
     }, 
     {
       name: "代燕", 
-      id: "ouDkI6sxSBTRLZDViPwnqeGJmRI8",
+    //  id: "ouDkI6sxSBTRLZDViPwnqeGJmRI8",
       useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
       province: "广西",
       city: "柳州",
@@ -61,7 +61,7 @@ export const config = {
     }, 
     {
       name: "梁圣月", 
-      id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
+   //   id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
       useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
       province: "广西",
       city: "贵港",
