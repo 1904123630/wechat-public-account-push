@@ -53,7 +53,7 @@ export const config = {
     }, 
      {
       name: "石", 
-     // id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
+     id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
       useTemplateId: "CcxrrsJJZtfgcx58hnWYNxoCiMkhRuSXf4GIbzhh_FM",
       province: "广西",
       city: "贵港",
