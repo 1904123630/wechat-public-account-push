@@ -51,9 +51,17 @@ export const config = {
       city: "柳州",
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
     }, 
+     {
+      name: "石", 
+     // id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
+      useTemplateId: "CcxrrsJJZtfgcx58hnWYNxoCiMkhRuSXf4GIbzhh_FM",
+      province: "广西",
+      city: "平南县",
+      openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
+    }, 
     {
       name: "梁圣月", 
-      id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
+    //  id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
       useTemplateId: "B-uwIIRNt8AEs4KLZ1W3tlDpo1yJZUzSmAO17FDh7Zw",
       province: "广西",
       city: "贵港",
@@ -151,7 +159,7 @@ export const config = {
 
   // 好文节选的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: ""
+  LITERARY_PREFERENCE: "网络"
 
 
 }
