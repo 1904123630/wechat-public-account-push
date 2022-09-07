@@ -52,17 +52,9 @@ export const config = {
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
     }, 
     {
-      name: "",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
       name: "梁圣月", 
       id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
-      useTemplateId: "	B-uwIIRNt8AEs4KLZ1W3tlDpo1yJZUzSmAO17FDh7Zw",
+      useTemplateId: "B-uwIIRNt8AEs4KLZ1W3tlDpo1yJZUzSmAO17FDh7Zw",
       province: "广西",
       city: "贵港",
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
