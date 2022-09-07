@@ -56,7 +56,7 @@ export const config = {
      // id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
       useTemplateId: "CcxrrsJJZtfgcx58hnWYNxoCiMkhRuSXf4GIbzhh_FM",
       province: "广西",
-      city: "平南县",
+      city: "平南",
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
     }, 
     {
