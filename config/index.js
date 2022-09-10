@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Rp0G6_AASl2PLFBkPDVpIm9OWpY1M8Bsnce4o64wgKw",
+      useTemplateId: "KvOARBIT2QHRKd3UlbhfiGt2V2M5zGyM5Tg0_bDF6dE",
       // 所在省份
       province: "广西",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
    {
       name: "韦admin", 
      id: "ouDkI6mWPjGSrV588JVZLjp9Q1NM",
-      useTemplateId: "Rp0G6_AASl2PLFBkPDVpIm9OWpY1M8Bsnce4o64wgKw",
+      useTemplateId: "KvOARBIT2QHRKd3UlbhfiGt2V2M5zGyM5Tg0_bDF6dE",
       province: "广西",
       city: "北海",
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
@@ -111,7 +111,7 @@ export const config = {
   FESTIVALS: [
   //  {"type": "生日",  "year": "1996", "date": "09-02"},
  
-    {"type": "节日", "name": "中秋节", "year": "2022", "date": "09-10"},
+  
     {"type": "节日", "name": "国庆节", "year": "2022", "date": "10-01"},
     {"type": "节日", "name": "2023年", "year": "2023", "date": "01-01"},
       {"type": "生日", "name": "你", "year": "2023", "date": "06-03"},
