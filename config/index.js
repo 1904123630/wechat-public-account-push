@@ -59,15 +59,14 @@ export const config = {
       openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
     }, 
     
-    
-  //
-  //  name: "韦admin", 
-  //   id: "ouDkI6mWPjGSrV588JVZLjp9Q1NM",
-    //useTemplateId: "KvOARBIT2QHRKd3UlbhfiGt2V2M5zGyM5Tg0_bDF6dE",
-  //  province: "广西",
-  //  city: "北海",
- //   openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
- // }, 
+    { 
+    name: "韦admin", 
+    id: "ouDkI6mWPjGSrV588JVZLjp9Q1NM",
+    useTemplateId: "KvOARBIT2QHRKd3UlbhfiGt2V2M5zGyM5Tg0_bDF6dE",
+    province: "广西",
+    city: "北海",
+   openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
+ }, 
    // {
   //    name: "代燕", 
     //  id: "ouDkI6sxSBTRLZDViPwnqeGJmRI8",
