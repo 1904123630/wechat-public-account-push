@@ -33,7 +33,7 @@ export const config = {
       // 想要发送的人的名字
       name: "消失的橘子皮",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
+      id: "U1X9c4LfSdF9ORg4S93azeasqrZiL9yh9vkzIPJ3MyA",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "KvOARBIT2QHRKd3UlbhfiGt2V2M5zGyM5Tg0_bDF6dE",
       // 所在省份
@@ -45,7 +45,7 @@ export const config = {
     }, 
    {
       name: "韦admin", 
-     id: "ouDkI6mWPjGSrV588JVZLjp9Q1NM",
+  //   id: "ouDkI6mWPjGSrV588JVZLjp9Q1NM",
       useTemplateId: "KvOARBIT2QHRKd3UlbhfiGt2V2M5zGyM5Tg0_bDF6dE",
       province: "广西",
       city: "北海",
