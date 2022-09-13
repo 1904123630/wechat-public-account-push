@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "xHv_gVAntpr2Ia7oJJIM0jA7ULDNxIwhibFzDr0osxQ",
+      useTemplateId: "i56rjnqbUveKCe0LIz73cDaKFWKbCxgpZt7p5scItgg",
       // 所在省份
       province: "广西",
       // 所在城市
@@ -49,7 +49,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ouDkI6iN8anxtsmKh5vaT28oaMlQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "xMSvyYN097a8Y8OVdGglLDJScRS1v_FqYnBhLW5Tpf4",
+      useTemplateId: "i56rjnqbUveKCe0LIz73cDaKFWKbCxgpZt7p5scItgg",
       // 所在省份
       province: "广西",
       // 所在城市
@@ -60,28 +60,28 @@ export const config = {
     
   //   {
       // 想要发送的人的名字
-      name: "张",
+  //    name: "张",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ouDkI6ul23ca7uASdnVEMEfu7KcM",
+  //    id: "ouDkI6ul23ca7uASdnVEMEfu7KcM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "xHv_gVAntpr2Ia7oJJIM0jA7ULDNxIwhibFzDr0osxQ",
+  //    useTemplateId: "xHv_gVAntpr2Ia7oJJIM0jA7ULDNxIwhibFzDr0osxQ",
       // 所在省份
-      province: "江西",
+  //    province: "江西",
       // 所在城市
-      city: "鹰潭",
+   //   city: "鹰潭",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-     openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
-    }, 
+  //   openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
+ //   }, 
     
 
-    {
-      name: "代燕", 
-      id: "ouDkI6sxSBTRLZDViPwnqeGJmRI8",
-      useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
-province: "广西",
-      city: "柳州",
-      openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
-    }, 
+//    {
+//      name: "代燕", 
+//      id: "ouDkI6sxSBTRLZDViPwnqeGJmRI8",
+//      useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
+ //       province: "广西",
+ //     city: "柳州",
+ //     openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
+  //  }, 
   
     
    // {
