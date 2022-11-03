@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ouDkI6hjGRp1N2C1uF365fw3nIBM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "POF2iQ8YYl3ABIomuDzEeRKr-r7ZA4Zbm4G_Imzxx2k",
+      useTemplateId: "	UdCDsUpGhQi5NaHk-gclyroc1Y_27wD_d-We_E-2YJY",
       // 所在省份
       province: "广西",
       // 所在城市
@@ -136,7 +136,7 @@ export const config = {
  
   
   //  {"type": "节日", "name": "国庆节", "year": "2022", "date": "10-01"},
-  //  {"type": "节日", "name": "2023年", "year": "2023", "date": "01-01"},
+  {"type": "节日", "name": "2023年", "year": "2023", "date": "01-01"},
   //    {"type": "生日", "name": "你", "year": "2023", "date": "06-03"},
   
  //   {"type": "生日", "name": "", "year": "1996", "date": "09-31"},
