@@ -58,21 +58,21 @@ export const config = {
  //     openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
 //    }, 
     
-     {
+ //    {
       // 想要发送的人的名字
   //    name: "张",
-      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ouDkI6ul23ca7uASdnVEMEfu7KcM",
+   //   // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+  //    id: "ouDkI6ul23ca7uASdnVEMEfu7KcM",
       // 你想对他发送的模板消息的模板ID
-     useTemplateId: "cxipcvXDlQD7hv2siPjHJvoTnKaUaib2Xz1NfJo9",
+  //   useTemplateId: "cxipcvXDlQD7hv2siPjHJvoTnKaUaib2Xz1NfJo9",
       // 所在省份
-      province: "江西",
+ //     province: "江西",
       // 所在城市
-      city: "鹰潭",
-      // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-    openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
-    }, 
-    
+  //    city: "鹰潭",
+ //     // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
+//    openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
+//    }, 
+//    
 
 //    {
 //      name: "代燕", 
@@ -84,14 +84,14 @@ export const config = {
   //  }, 
   
     
-    {
-     name: "梁圣月", 
-      id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
-     useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
-      province: "广西",
-      city: "贵港",
-      openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
-    }, 
+ //   {
+ //    name: "梁圣月", 
+   //   id: "ouDkI6rdhizT6oi46BwuEqrCt6w8",
+ //    useTemplateId: "ZHnY1sdooZxMfH7F3PbMY7Z1qF3vqJVk1Hj4jYo6KtU",
+  //    province: "广西",
+ //     city: "贵港",
+ //     openUrl: "https://qm.qq.com/cgi-bin/qm/qr?k=7UHpH5pQ-X97dQcbAp-485DYj3oapChL&noverify=0"
+ //   }, 
     
   ],
 
